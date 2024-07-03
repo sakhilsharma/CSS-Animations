@@ -1,7 +1,7 @@
 # CSS-Animations
 
 
-This repo contains some cool animations using CSS.
+This repo contains some cool animations using CSS,JS(including libraries like particle.js ,three.js),SVG .
 ## 🛠 Skills
 Javascript, HTML, CSS
 ## Authors
