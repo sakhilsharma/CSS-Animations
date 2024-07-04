@@ -30,3 +30,9 @@ Animated trail- colored cursor using javasript logics.
 ## Features
 
 - Animated cursor advancing browser
+
+ ## Animation 4
+ Wavey Background creating cool effect.
+ ![Screenshot 2024-07-04 213503](https://github.com/sakhilsharma/CSS-Animations/assets/157978636/1d686adc-19d3-4979-98f3-c2c40d1f1e40)
+
+ 
