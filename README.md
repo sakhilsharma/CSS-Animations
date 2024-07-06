@@ -40,4 +40,6 @@ Animated trail- colored cursor using javasript logics.
   ## Animation 5 
   Cool Navbar with popup icon and translation on click
   ![Screenshot 2024-07-05 220742](https://github.com/sakhilsharma/CSS-Animations/assets/157978636/df219801-4fe2-45c9-95a7-669671a6966e)
-part-2:![Uploading Screenshot 2024-07-06 114709.png…]()
+part-2:
+![Screenshot 2024-07-06 114709](https://github.com/sakhilsharma/CSS-Animations/assets/157978636/f41baa57-26d4-4578-9c56-51ff89792758)
+
